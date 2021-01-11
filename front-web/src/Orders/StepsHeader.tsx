@@ -1,4 +1,4 @@
-function stepssHeader(){
+function StepsHeader(){
     return (
         <header className="orders-steps-container">
             <div className="orders-steps-content">
@@ -20,4 +20,4 @@ function stepssHeader(){
     )
 }
 
-export default stepssHeader;
+export default StepsHeader;
